@@ -1,3 +1,6 @@
+[v0.0.2](https://github.com/littleflute/cdpics1/edit/master/README.md)
+
+
 <style>
 #myViewer{
 	border:1px red solid;
