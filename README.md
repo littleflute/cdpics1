@@ -1,3 +1,59 @@
+<style>
+#myViewer{
+	border:1px red solid;
+    height:50px;
+}
+</style>
+<div id="myViewer"></div>
+<script>
+function blPicViewer()
+{
+	this.init = function ()
+    {
+    	var v = document.getElementById("myViewer");
+        v.style.width 	= "100px";
+        v.style.height 	= "100px";
+        v.style.border 	= "1px blue solid"; 
+        this.setVer("v0.0.2");
+    }
+    this.setVer = function(v)
+    {
+    	var p = document.getElementById("myViewer");
+        var o = document.createElement("div");
+        o.style.border = "1px green solid";
+        o.innerHTML = v;
+        p.appendChild(o);
+    }
+}
+var v = new blPicViewer();
+v.init();
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/littleflute/cdpics1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
