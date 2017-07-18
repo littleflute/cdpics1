@@ -1,4 +1,7 @@
-[v0.0.2](https://github.com/littleflute/cdpics1/edit/master/README.md)
+[v0.0.4](https://github.com/littleflute/cdpics1/edit/master/README.md)
+
+[2  168M]
+
 
 
 <style>
