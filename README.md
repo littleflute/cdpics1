@@ -1,8 +1,9 @@
-[v0.0.6](https://github.com/littleflute/cdpics1/edit/master/README.md)
+[v0.0.7](https://github.com/littleflute/cdpics1/edit/master/README.md)
 
 [2          168M]
 
 [3          28M]
+[4          90.4M]
 [cdpics1    207M]
 
 
